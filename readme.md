@@ -1,4 +1,6 @@
-📝 #Blog em Django com Docker
+#BLOG
+
+📝Blog em Django com Docker
 Este projeto é um blog desenvolvido em Django, com foco principal no entendimento e configuração do backend. Além disso, utilizei Docker para gerenciar o ambiente de desenvolvimento de forma mais eficiente.
 
 🔧 Tecnologias Utilizadas
